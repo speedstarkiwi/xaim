@@ -13,13 +13,17 @@ fortnite cheat project. we will finalize this during spring. made this in class 
 - auto fire????????????
 
 # warnings ⚠
-1: mainly for ZERO BUILD (im not saying that it wont work, its just that its made for zero build players)
+1: ONLY FOR ZERO BUILD (read the **before you download**)
 
 2: DISABLE your crosshair that fortnite provides you (its in settings > UI and Reticle > OFF)
 
 3: if it does NOT appear on screen (to fix go to settings > Windowed Fullscreen)
 
 4: if (in the very rare chance) you get warned or banned by Epic Games **we are NOT responsible for this**!!
+
+# read before installing 😞
+
+**if you are not aware, the default keybinds for editing is Z, X, C, V, and G and a lotta people change it WHICH CREATES a BIG problem. to interact we use these keybinds and now you see thats why this is for zero build. but.... this may or may not apply to you cus when you switch to the app you focus on it and fortnite is just there in the background. anyways ill let you know if this is actually a bug.**
 
 # price 💲
 
