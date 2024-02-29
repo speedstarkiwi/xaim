@@ -10,6 +10,8 @@ fortnite cheat project. we will finalize this during spring. made this in class 
 
 - ping reducer: reduces your ping by little to big amounts. (overall depends on internet connection)
 
+- auto fire????????????
+
 # warnings ⚠
 1: mainly for ZERO BUILD (im not saying that it wont work, its just that its made for zero build players)
 
